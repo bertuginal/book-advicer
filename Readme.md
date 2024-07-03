@@ -1,5 +1,5 @@
 
-<div align="center"><h1> :sparkles: PATIKA+ BOOK ADVICER GROUP PROJECT :sparkles: </h1></div>
+<div align="center"><h1> :sparkles: PATIKA+ BOOK ADVICER API GROUP PROJECT :sparkles: </h1></div>
 <div align="center"><h2> 🚥 FULL STACK AI PROJECT 🚥 </h2> </div>
 
 
