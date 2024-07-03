@@ -5,7 +5,7 @@
 
 ## ↓ Technology Stacks ↓
 
-## BACK-END 
+## ⚙️ BACK-END
 
 * [![Java][Java-logo]][Java-url]
 * [![Spring][Spring-logo]][Spring-url]
@@ -15,7 +15,7 @@
 * [![Swagger][Swagger-logo]][Swagger-url]
        
 
-### Dependencies
+### 🔒 Dependencies
  
 <b>✔️ Spring Web </b>
 
@@ -27,30 +27,17 @@
 
 <b>✔️ Data MongoDB </b>
 
+&nbsp; 
 
- - [x] MongoDB (Database)
-
- - [x] Postman
-
- - [x] Swagger
-
-<p align="left"> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"height="40"/>
-<a href="https://maven.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iff/png/256/vscode+icons+type+maven-1324451386617447973.png"  width="40" height="40"/> 
-<a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" width="40" height="40"/>
-<a href="https://swagger.io/" target="_blank"> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="40" height="40"/>
-</a>
-</p>
-
-## `File Structure` 
+## ↓ File Structure ↓
 
 ### ` 🏗️ N-Layered Architecture`
 
 ![image](https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir/assets/58560920/5dd809e9-b4c6-40d6-8c76-8eda11bad234)
 
-## `Service Endpoints`
+&nbsp; 
+
+## ↓ Service Endpoints ↓
 
 ### `User Service Endpoints`
 | Route                  | HTTP     | Request Body                                                                                                                                                                                | Description 	     |
@@ -58,26 +45,18 @@
 | /books                 | `POST`   | { "question": "Recommend me 5 books similar to Platon's book titled Sokratesin Savunması in the philosophy category. Convert output to french" }                                            | Generate books    |
 | /books                 | `GET`    | Empty                                                                                                                                                                                      | Get Books         |
 
-
+&nbsp; 
 
       
-## FRONT-END
+## 💻 FRONT-END
 
- - [x] React JS
+* [![React][React-logo]][React-url]
+* [![Vite][Vite-logo]][Vite-url]
+* [![Ant-Design][Ant-Design-logo]][Ant-Design-url]
 
- - [x] Vite JS
+&nbsp; 
 
- - [x] Ant Design (UI)
-
-
-<p align="left">
-<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" width="40" height="40"/> 
-<a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="40" height="40"/> 
-<a href="https://ant.design/" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40"/> 
-</a>
-</p>
-
-## `Aplication Screenshots` 
+##  `📸 Aplication Screenshots` 
 
 ![image](https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir/assets/58560920/01fc1e16-0c11-4c2a-a06f-4927006a10fc)
 
@@ -85,24 +64,54 @@
 
 
 
-## `Build and Run Project`
-> Requires **JDK 21** to run the project, **Git** to pull from remote repository, and **Docker** to run docker-compose
+## `▶︎ Build and Run Project`
+> Requires **JDK 21** to run the project, **Git** to pull from remote repository, and **Docker** to run docker-compose!
 
-Follow the steps to build and run the project:
-- Clone the repository from Git
+╰➤ Follow the steps to build and run the project:
+
+❶ Clone the repository from Git
 ```bash
   git clone https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir.git
 ```
 
-- Run the project with Docker
+❷ Run the project with Docker
 ```shell
   docker-compose up -d && docker-compose down 
 ```
-After all services are up and running with `Docker`:
+❸ After all services are up and running with `Docker`:
 - `BookAdviserApiApplication(Back-end)` interface can be accessed from port **8080**
 - `MongoDB Express` interface can be accessed from port **8081**
 - `Vite + React + TS (front-end)` interface can be accessed from port **5173 or 5174**
 > All running services can access dependent graphic interfaces via the web without being dependent on the local environment.
+
+## 🌱 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+⭐ Don't forget to give the project a star! Thanks again! ⭐
+
+❶ Fork the Project
+
+❷ Create your Feature Branch (`git checkout -b feature/WeatherApi`)
+
+❸  Commit your Changes (`git commit -m 'Add some WeatherApi'`)
+
+❹  Push to the Branch (`git push origin feature/WeatherApi`)
+
+❺ Open a Pull Request
+   
+
+&nbsp; 
+
+<!-- CONTACT -->
+## ☎️ Contact
+
+📧 E-mail: [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
+
+📱 Mobile Phone: [(+90) 507 038 33 23](mailto:+905070383323)
+
+📋 Project Link: [https://github.com/bertuginal/book-advicer](https://github.com/bertuginal/book-advicer)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -135,10 +144,14 @@ After all services are up and running with `Docker`:
 [Swagger-url]: https://swagger.io
 [Rest-logo]: https://img.shields.io/badge/Rest_Template-563D7C?style=for-the-badge&logo=rest&logoColor=white
 [Rest-url]: https://img.shields.io/badge/Rest_Template-563D7C?style=for-the-badge&logo=rest&logoColor=white
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-logo]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vite-logo]: https://img.shields.io/badge/vite.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=906DFE
+[Vite-url]: https://vitejs.dev
+[Ant-Design-logo]: https://img.shields.io/badge/ant_design_(UI)-35495E?style=for-the-badge&logo=antdesign&logoColor=F7515E
+[Ant-Design-url]: https://ant.design
+
+[Vue-logo]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
