@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.requestHistory {
+    width: 20vw;
+    background-color: lightblue;
+}
+
+.responseSection {
+    width: 80vw;
+    background-color: #40A2D8;
+}
+.contentContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.responseContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.promptButtonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 8vh;
+}
+
+.promptButton {
+    width: 30%;
+    background-color: #0B60B0;
+    font-size: 20px;
+}
+
+.promptFormSubmitButton {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.requestHistory {
+    flex: 1;
+    overflow: auto;
+    padding: 10px;
+}
+
+.responseSection {
+    flex: 3;
+    padding: 10px;
+    overflow: auto;
+}
+
+.historyBookLoadList {
+    max-height: 100%;
+    overflow: auto;
+}
+
+.historyBookListItem {
+    padding: 10px;
+}
+
+.viewAnswerButton {
+    width: 100%;
+    background-color: #0B60B0;
+    font-size: 15px;
+    font-weight: inherit;
+}
+
+.historyBookListItemMeta {
+    display: flex;
+    align-items: center;
+}
+
+.historyBookListItemIcon {
+    width: 40px;
+    height: 40px;
+}
