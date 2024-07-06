@@ -33,7 +33,7 @@
 
 ### ` 🏗️ N-Layered Architecture`
 
-![image](https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir/assets/58560920/5dd809e9-b4c6-40d6-8c76-8eda11bad234)
+![image](https://github.com/bertuginal/book-advicer/assets/73167951/a412a4f7-875a-4979-a1d2-c581645fb43d)
 
 &nbsp; 
 
@@ -58,9 +58,9 @@
 
 ##  `📸 Aplication Screenshots` 
 
-![image](https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir/assets/58560920/01fc1e16-0c11-4c2a-a06f-4927006a10fc)
+![image](https://github.com/bertuginal/book-advicer/assets/73167951/b1f8892a-91da-4959-aa77-21ae5b591f98)
 
-![image](https://github.com/FMSS-Full-Stack-Bootcamp/grup-bir/assets/58560920/aafb0e50-7600-4786-b0a1-40a38646797f)
+![image](https://github.com/bertuginal/book-advicer/assets/73167951/dea4f488-f8d5-442c-a5a8-28b602684e31)
 
 
 
