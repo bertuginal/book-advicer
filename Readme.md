@@ -95,11 +95,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ❶ Fork the Project
 
-❷ Create your Feature Branch (`git checkout -b feature/WeatherApi`)
+❷ Create your Feature Branch (`git checkout -b feature/book-advicer`)
 
-❸  Commit your Changes (`git commit -m 'Add some WeatherApi'`)
+❸  Commit your Changes (`git commit -m 'Add some book-advicer'`)
 
-❹  Push to the Branch (`git push origin feature/WeatherApi`)
+❹  Push to the Branch (`git push origin feature/book-advicer`)
 
 ❺ Open a Pull Request
    
